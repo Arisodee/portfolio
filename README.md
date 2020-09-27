@@ -1,6 +1,7 @@
 # Ariso Portfolio
-#### This website is about who I am: my education, hobbies, skills, work experience and proects I have worked on}, {28/09/2020}
-#### By **Ariso Okanga**
+#### This website is about who I am: my education, hobbies, skills, work experience and proects I have worked on. 28/09/2020
+## Author
+ **Ariso Okanga**
 ## Setup/Installation Requirements
 * 
 * 
@@ -11,5 +12,5 @@
 For any questions and inquiries, contact me via email:
 * arisodee@gmail.com
 ### License
-MIT
+
 Copyright (c) {2020}
