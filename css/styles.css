@@ -2,27 +2,29 @@ body{
     background-color: black;
     color: aliceblue;
 }
-img{
-    width: 30%;
-    height: 30%;
+.picture{
+    width: 50%;
+    height: 50%;
     float: left;
-    margin-right: 20px;
-    margin-top: 20px;
+    border: 5px solid seashell;
+    margin-right: 50px;
+    margin-top: 30px;
 }
 h1{
     font-size: 62px;
+    text-align: center;
 }
 ul{
     line-height: 50px;
 }h2{
     font-size: 36px;
-    text-align: center;
+    text-decoration: underline;
 }
 h3{
     font-size: 28px;
-    text-align: center;
     text-decoration: underline;
+    font-style: italic;
 }
 .aboutme{
-  float: left;
+    font-size: 22px;
 }
