@@ -28,3 +28,11 @@ h3{
 .aboutme{
     font-size: 22px;
 }
+p{
+    text-align: center;
+    font-size: 22px;
+}
+.program{
+    font-weight: bold;
+    font-style: italic;
+}
