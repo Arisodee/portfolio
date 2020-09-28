@@ -1,5 +1,5 @@
 # Ariso Portfolio
- This website is about who I am: my education, hobbies, skills, work experience and proects I have worked on. 28/09/2020
+ This website is about who I am: my education, hobbies, skills, work experience and proects I have worked on.
 ### Author
  Ariso Okanga
 ## Setup/Installation Requirements
