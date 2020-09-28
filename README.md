@@ -2,8 +2,8 @@
  This is a portfolio that describes Ariso Okanga: education, hobbies, skills, work experience and proects worked on.
 ### Author
  Ariso Okanga
-## Project Image
-![Ariso](.images/portfolio.png)
+## App
+!(images/portfolio.png)
 ---
 ## Setup Instructions
 * run https://github.com/Arisodee/portfolio.git 
