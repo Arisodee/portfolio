@@ -3,7 +3,7 @@
 ### Author
  Ariso Okanga
 ## App
-!(images/portfolio.png)
+![project screenshot](images/portfolio.png)
 ---
 ## Setup Instructions
 * run https://github.com/Arisodee/portfolio.git 
