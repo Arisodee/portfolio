@@ -6,7 +6,7 @@
 * run https://github.com/Arisodee/portfolio.git 
 * serve it on the browser
 ## GitHub live link
-https://github.com/Arisodee/portfolio.git 
+* https://arisodee.github.io/portfolio/ 
 ## Technologies Used
 * HTML
 * CSS
