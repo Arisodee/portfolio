@@ -3,8 +3,10 @@
 ### Author
  Ariso Okanga
 ## Setup/Installation Requirements
-* run (https://github.com/Arisodee/portfolio.git)
-* serve it on browser
+* run https://github.com/Arisodee/portfolio.git on your browser
+* On gitHub, click the live link in the about section
+## GtiHub live link
+arisodee.github.io/portfolio/
 ## Technologies Used
 * HTML
 * CSS
